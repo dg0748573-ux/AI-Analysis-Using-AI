@@ -1,4 +1,4 @@
-#🎓 AI Analysis Using Students Data
+🎓 AI Analysis Using Students Data
 📌 Project Overview
 This project focuses on analyzing student-related data using modern data analytics tools and AI-driven insights. The objective is to transform raw student data into meaningful insights that can support decision-making in academic performance, trends, and overall evaluation.
 The workflow includes data uploading, cleaning, visualization, and reporting using tools like Excel and Power BI.
