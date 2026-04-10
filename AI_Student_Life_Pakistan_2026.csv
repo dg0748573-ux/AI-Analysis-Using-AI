@@ -1,0 +1,101 @@
+Student_ID,Age,Age-Group,Gender,Education_Level,City,AI_Tool_Used,Daily_Usage_Hours,Purpose,Impact_on_Grades,Satisfaction_Level
+1,15,Teenager,Female,School,Lahore,ChatGPT,0.8,Writing,Slight Decline,Low
+2,15,Teenager,Female,College,Multan,Copilot,1.6,Learning,No Change,High
+3,16,Adult,Female,College,Multan,ChatGPT,1.8,Research,Improved,Low
+4,22,Adult,Male,University,Karachi,ChatGPT,4.2,Learning,Improved,High
+5,16,Adult,Male,School,Multan,ChatGPT,1.8,Coding,Improved,Medium
+6,15,Teenager,Female,School,Multan,Grammarly,4.1,Learning,Improved,Low
+7,19,Adult,Male,School,Islamabad,Copilot,2,Research,Slight Decline,Low
+8,25,Adult,Male,University,Karachi,Grammarly,4.2,Coding,Slight Decline,High
+9,20,Adult,Male,University,Karachi,Gemini,3.2,Homework,Slight Decline,Medium
+10,21,Adult,Male,College,Lahore,Grammarly,3.6,Writing,No Change,Low
+11,22,Adult,Female,College,Multan,Grammarly,3.9,Writing,No Change,Medium
+12,20,Adult,Male,College,Multan,ChatGPT,3.4,Research,Slight Decline,High
+13,20,Adult,Male,School,Multan,Gemini,0.7,Coding,Improved,High
+14,16,Adult,Female,College,Multan,Gemini,4.8,Homework,No Change,Medium
+15,23,Adult,Male,University,Multan,Copilot,3.7,Homework,Improved,High
+16,16,Adult,Female,University,Islamabad,Grammarly,1.1,Writing,No Change,High
+17,16,Adult,Male,University,Karachi,ChatGPT,0.7,Homework,No Change,Medium
+18,22,Adult,Male,University,Lahore,ChatGPT,4.9,Coding,Improved,Low
+19,20,Adult,Female,School,Multan,ChatGPT,4.1,Research,No Change,Low
+20,22,Adult,Male,School,Multan,Gemini,5,Homework,No Change,High
+21,21,Adult,Male,School,Islamabad,Grammarly,5.2,Homework,Slight Decline,Low
+22,21,Adult,Male,School,Islamabad,Grammarly,2.7,Coding,Slight Decline,Medium
+23,25,Adult,Female,School,Islamabad,Gemini,0.6,Research,No Change,High
+24,16,Adult,Male,University,Islamabad,Grammarly,1.3,Learning,Slight Decline,High
+25,21,Adult,Female,College,Lahore,ChatGPT,5.5,Homework,Improved,Low
+26,16,Adult,Female,University,Multan,ChatGPT,1.8,Homework,No Change,High
+27,19,Adult,Male,School,Lahore,Notion AI,1.1,Writing,Improved,High
+28,20,Adult,Male,School,Faisalabad,Copilot,4.8,Coding,No Change,Low
+29,16,Adult,Male,School,Multan,ChatGPT,2.3,Homework,Improved,Medium
+30,21,Adult,Male,School,Multan,Grammarly,0.7,Writing,Slight Decline,Medium
+31,15,Teenager,Male,University,Karachi,Gemini,3.2,Research,Improved,High
+32,16,Adult,Female,College,Faisalabad,Gemini,4,Research,Slight Decline,Low
+33,22,Adult,Male,School,Karachi,Copilot,1.8,Writing,No Change,High
+34,15,Teenager,Male,University,Islamabad,Gemini,3.6,Research,Improved,High
+35,23,Adult,Female,School,Multan,Gemini,1.4,Coding,Improved,High
+36,20,Adult,Male,University,Faisalabad,Copilot,4.8,Coding,Improved,Low
+37,15,Teenager,Female,College,Karachi,Gemini,4.3,Coding,Slight Decline,Low
+38,25,Adult,Female,School,Faisalabad,ChatGPT,0.7,Coding,Improved,Low
+39,20,Adult,Female,College,Faisalabad,Gemini,2.3,Learning,No Change,Medium
+40,19,Adult,Male,University,Faisalabad,Grammarly,5,Research,Slight Decline,High
+41,18,Adult,Female,School,Lahore,Copilot,0.8,Writing,No Change,Low
+42,20,Adult,Female,College,Lahore,Grammarly,3.4,Learning,Slight Decline,Low
+43,25,Adult,Female,School,Karachi,Gemini,0.9,Homework,Slight Decline,Medium
+44,18,Adult,Male,School,Karachi,Copilot,5.5,Coding,No Change,Medium
+45,23,Adult,Female,School,Islamabad,Copilot,4.3,Homework,Improved,Low
+46,15,Teenager,Female,College,Multan,Notion AI,3.6,Learning,Slight Decline,Low
+47,23,Adult,Male,School,Islamabad,Gemini,3.2,Coding,Improved,Low
+48,19,Adult,Female,School,Lahore,ChatGPT,0.8,Homework,No Change,Medium
+49,19,Adult,Female,School,Faisalabad,ChatGPT,5.5,Coding,Improved,High
+50,25,Adult,Female,College,Lahore,Gemini,2.3,Research,No Change,Low
+51,25,Adult,Female,University,Faisalabad,Notion AI,1.9,Research,Improved,Medium
+52,16,Adult,Female,University,Lahore,Notion AI,0.7,Learning,Improved,Medium
+53,23,Adult,Female,School,Karachi,ChatGPT,4.3,Homework,Slight Decline,Medium
+54,25,Adult,Female,School,Islamabad,Grammarly,2.5,Research,No Change,Medium
+55,17,Adult,Female,School,Multan,Grammarly,1.9,Research,No Change,Medium
+56,25,Adult,Female,School,Karachi,Notion AI,2.2,Learning,Slight Decline,High
+57,17,Adult,Female,School,Faisalabad,Gemini,0.8,Writing,Improved,Low
+58,16,Adult,Male,School,Lahore,Grammarly,3.8,Homework,Improved,Low
+59,18,Adult,Male,University,Islamabad,Grammarly,4.5,Homework,Improved,Low
+60,21,Adult,Female,College,Lahore,Notion AI,3,Research,Improved,Medium
+61,19,Adult,Male,College,Islamabad,Notion AI,3.1,Learning,Slight Decline,High
+62,15,Teenager,Female,School,Lahore,ChatGPT,5.9,Coding,Improved,High
+63,16,Adult,Female,College,Lahore,Grammarly,2.5,Coding,No Change,Low
+64,22,Adult,Male,School,Faisalabad,Copilot,3.2,Homework,No Change,Medium
+65,23,Adult,Male,College,Multan,Gemini,1.4,Research,No Change,Low
+66,23,Adult,Female,School,Faisalabad,Copilot,0.6,Homework,No Change,Medium
+67,22,Adult,Male,School,Faisalabad,Copilot,3.3,Writing,Slight Decline,High
+68,19,Adult,Male,School,Multan,Grammarly,4.2,Homework,Improved,Medium
+69,18,Adult,Male,University,Lahore,Copilot,4.2,Learning,Improved,High
+70,16,Adult,Male,School,Multan,Notion AI,1,Homework,No Change,Medium
+71,19,Adult,Male,School,Islamabad,Grammarly,3,Learning,Slight Decline,Low
+72,19,Adult,Female,College,Faisalabad,Gemini,5.8,Learning,No Change,High
+73,15,Teenager,Male,University,Faisalabad,Notion AI,4.7,Homework,No Change,Low
+74,22,Adult,Male,School,Multan,Notion AI,4.7,Writing,Improved,Low
+75,16,Adult,Male,University,Lahore,Grammarly,4,Coding,Slight Decline,Low
+76,23,Adult,Male,University,Multan,Copilot,2,Learning,Improved,Medium
+77,19,Adult,Female,College,Islamabad,ChatGPT,5.7,Coding,Improved,Medium
+78,16,Adult,Female,College,Lahore,Grammarly,3.2,Research,No Change,Medium
+79,19,Adult,Male,College,Karachi,Notion AI,1.7,Learning,No Change,Low
+80,16,Adult,Male,School,Karachi,Notion AI,4.9,Research,Improved,Low
+81,25,Adult,Female,University,Lahore,ChatGPT,0.6,Learning,Improved,Medium
+82,16,Adult,Male,College,Faisalabad,Gemini,4.7,Research,Slight Decline,Medium
+83,23,Adult,Male,University,Multan,Gemini,1.9,Homework,No Change,Low
+84,17,Adult,Male,College,Lahore,Grammarly,5.2,Learning,Slight Decline,Low
+85,25,Adult,Female,College,Islamabad,Notion AI,1.7,Coding,No Change,High
+86,19,Adult,Male,College,Karachi,Gemini,0.5,Coding,No Change,Low
+87,17,Adult,Female,University,Lahore,Copilot,5.6,Research,Slight Decline,Medium
+88,20,Adult,Female,College,Multan,ChatGPT,3.3,Homework,Improved,Low
+89,15,Teenager,Female,School,Multan,ChatGPT,5,Learning,Improved,High
+90,15,Teenager,Female,University,Islamabad,Copilot,1.9,Research,Slight Decline,Medium
+91,16,Adult,Female,College,Islamabad,Copilot,3.9,Writing,No Change,Low
+92,16,Adult,Female,University,Lahore,Grammarly,3,Learning,Improved,Medium
+93,21,Adult,Male,School,Multan,Notion AI,2.4,Coding,Improved,High
+94,21,Adult,Female,School,Islamabad,Grammarly,3.9,Homework,Improved,Low
+95,23,Adult,Male,School,Multan,Gemini,5,Research,Improved,High
+96,16,Adult,Female,School,Multan,Grammarly,5,Learning,Slight Decline,Medium
+97,25,Adult,Female,School,Faisalabad,Gemini,1.9,Writing,No Change,Medium
+98,17,Adult,Female,College,Faisalabad,Gemini,2.9,Writing,No Change,Low
+99,15,Teenager,Female,College,Lahore,Notion AI,3.6,Homework,Slight Decline,High
+100,24,Adult,Female,School,Multan,Gemini,2.7,Learning,Improved,High
